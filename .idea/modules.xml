@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KAFKA/KafkaCodeDecode.iml" filepath="$PROJECT_DIR$/KAFKA/KafkaCodeDecode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MqttKafkaConnector/MqttKafkaConnector.iml" filepath="$PROJECT_DIR$/MqttKafkaConnector/MqttKafkaConnector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nagatarun_Projects.iml" filepath="$PROJECT_DIR$/.idea/Nagatarun_Projects.iml" />
+    </modules>
+  </component>
+</project>
